@@ -1,0 +1,7 @@
+telebot
+telethon
+pyrogram
+asyncio
+bs4
+fake_useragent
+googlesearch-python
